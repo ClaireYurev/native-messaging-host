@@ -1,0 +1,9 @@
+{
+    "name": "com.your_extension.native",
+    "description": "Native messaging host for video downloads",
+    "path": "C:\\Users\\Admin\\n\\run_host.bat",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://hbkkbnjdebpdkpojjhpcaknilkplmphl/"
+    ]
+}
